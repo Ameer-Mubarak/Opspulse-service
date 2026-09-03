@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.alokhtoboot.plus'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.alokhtoboot.plus'
+        minSdk 24
+        targetSdk 28
+        versionCode 290003
+        versionName '29.0.3-rebuild'
+    }
+}
